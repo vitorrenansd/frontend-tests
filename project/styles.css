@@ -38,6 +38,10 @@ img {
 
 footer {
     padding: 20px;
-    border-top: 1px solid (70, 70, 70);
+    border-top: 1px solid rgb(70, 70, 70);
     margin-top: 20px;
+}
+
+footer a {
+    color: rgb(255, 255, 255)
 }
